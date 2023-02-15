@@ -1,3 +1,3 @@
 # StudentBudgetTracker
 
-# Collaborator Names: Sharun Naicker
+# Collaborator Names: Sharun Naicker, Joshua Mathew
